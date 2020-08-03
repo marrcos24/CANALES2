@@ -1,103 +1,20 @@
 #EXTM3U
-#EXTINF:-1 group-title="ALTERNOS",RT Esp
-https://rt-esp.secure.footprint.net/1102.m3u8
-#EXTINF:-1 group-title="ALTERNOS",France 24 Esp
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:-1 group-title="ALTERNOS",DW Esp
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1 group-title="ALTERNOS",The Weather Channel Eng
-https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 group-title="ALTERNOS",NASA Public
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="ALTERNOS",NASA Media
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="ALTERNOS",Milenio
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 group-title="ALTERNOS",TVN
-https://ssai-apac.ooyala.com/hls/delta/cflive-use/out/u/229ymkag04945/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8
-#EXTINF:-1 group-title="ALTERNOS",TVMax
-https://ssai-apac.ooyala.com/hls/delta/cflive-use/out/u/229ymkag04945/107829/xkbjFrZjE6C0XcIGJRrNEk-TEe8LBvv8/cn/9f9cf618b2464b86b7a7a074ab605613.m3u8
-#EXTINF:-1 group-title="ALTERNOS",TVN+
-https://ssai-apac.ooyala.com/hls/delta/cflive-use/out/u/229ymkag04945/107829/w4MjFpaDE6ZE2VTls0F3V6vJL9MuWk8z/cn/85f0b182a32f4feb84317dbd88c993b3.m3u8
-#EXTINF:-1 group-title="ALTERNOS",Telemundo Chicago
+#EXTINF:-1 ,AMC
+http://roedor.xyz/regiomx20x/tp.php?c=131&p=3&k=srregio&f=.m3u8#EXTM3U
+
+#EXTINF:-1 group-title="ALTERNOS", Telemundo Chicago
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
-#EXTINF:-1 group-title="ALTERNOS",ForoTV
-https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
-#EXTINF:-1 group-title="ALTERNOS",Salud Tv
-https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/.m3u8
-#EXTINF:-1 group-title="ALTERNOS",Canal Once Nacional
-https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 group-title="ALTERNOS",Canal Once Internacional
-https://live2.canaloncelive.tv/livepkgr2/internacional.smil/.m3u8
-#EXTINF:-1 group-title="ALTERNOS",Turistik Tv
-https://sigma-lh.akamaihd.net/i/sigmaesp_1@723323/master.m3u8
-#EXTINF:-1 group-title="ALTERNOS",Quiero Tv
-https://quierotvlive.tk/httplive/playlist.m3u8
-#EXTINF:-1 group-title="ALTERNOS",Canal 10 Mexico
-https://www.canal10.tv/live/tvlive1/.m3u8
-#EXTINF:-1 group-title="ALTERNOS",Mexiquense Tv
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIwIDEyOjAzOjA4IEFNJmhhc2hfdmFsdWU9SzRBYWVRSjY4WGMyeWZZVDZYdHExQT09JnZhbGlkbWludXRlcz01JmlkPQ==
-#EXTINF:-1 group-title="ALTERNOS",Grupo Formula
-https://wms40.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1 group-title="ALTERNOS",Canal 26 Aguascalientes
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 group-title="ALTERNOS",Telemar
-https://59d39900ebfb8.streamlock.net/8006/8006/.m3u8
-#EXTINF:-1 group-title="ALTERNOS",Canal 22
-https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIwIDEyOjA3OjI4IEFNJmhhc2hfdmFsdWU9S0Q4QVZDMTY5cE1sQi9jUDZkaVpoUT09JnZhbGlkbWludXRlcz01JmlkPQ==
-#EXTINF:-1 group-title="ALTERNOS",TV 4.1
-https://5ca3e84a76d30.streamlock.net/tv4/tv4.smil/.m3u8
-#EXTINF:-1 group-title="ALTERNOS",TV 4.2
-https://5ca3e84a76d30.streamlock.net/tv42/tv42.smil/.m3u8
-#EXTINF:-1 group-title="ALTERNOS",TV 4.3
-https://5ca3e84a76d30.streamlock.net/tv43/tv43.smil/.m3u8
-#EXTINF:-1 group-title="ALTERNOS",Canal 7 Jujuy Argentina
-https://59d52c5a5ce5e.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
-#EXTINF:-1 group-title="ALTERNOS",Canal 9 Mendoza
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
-#EXTINF:-1 group-title="ALTERNOS",13 Max Arg
-http://coninfo.net:1935/13maxhd/live/.m3u8
-#EXTINF:-1 group-title="ALTERNOS",El Tres Arg
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/.m3u8
-#EXTINF:-1 group-title="ALTERNOS",Canal 4 Jujuy
-https://5cd577a3dd8ec.streamlock.net/CAMARAS/live3/.m3u8
-#EXTINF:-1 group-title="ALTERNOS",NET TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ALTERNOS",Multivision Arg
-https://panel.dattalive.com/8250/8250/.m3u8
-#EXTINF:-1 group-title="ALTERNOS",Tec Tv
-https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough_static/tectv/playlist.m3u8
-#EXTINF:-1 group-title="ALTERNOS",Telepacifico
-https://livecdn.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 group-title="ALTERNOS",COSMO
-http://91.126.141.201:1935/live/cosmoHD/.m3u8
-#EXTINF:-1 group-title="ALTERNOS",Cine Estelar Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-#EXTINF:-1 group-title="ALTERNOS",Peliculas Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968ae0ab7d8f181e6a68c/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-#EXTINF:-1 group-title="ALTERNOS",Cine Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-#EXTINF:-1 group-title="ALTERNOS",Cine Accion
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-#EXTINF:-1 group-title="ALTERNOS",Cine Terror
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-#EXTINF:-1 group-title="ALTERNOS",Investiga Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-#EXTINF:-1 group-title="ALTERNOS",Spikes Adventures Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-#EXTINF:-1 group-title="ALTERNOS",Dog Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b39aa8742fa30938ca92/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-#EXTINF:-1 group-title="ALTERNOS",Realities Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-#EXTINF:-1 group-title="ALTERNOS",Cocina Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-#EXTINF:-1 group-title="ALTERNOS",Naturaleza Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-#EXTINF:-1 group-title="ALTERNOS",Novelas Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96c0222df39f1a338d163/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-#EXTINF:-1 group-title="ALTERNOS",Nick Clasico
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
-#EXTINF:-1 group-title="ALTERNOS",Locomotion
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:-1 group-title="ALTERNOS",ACS Network
-https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
+#EXTINF:-1, DE PELICULA +
+http://roedor.xyz/regiomx20x/tp.php?c=121&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, GOLDEN +
+http://roedor.xyz/regiomx20x/tp.php?c=122&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, GOLDEN
+http://roedor.xyz/regiomx20x/tp.php?c=123&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, GOLDEN EDGE
+http://roedor.xyz/regiomx20x/tp.php?c=124&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, TNT
+http://roedor.xyz/regiomx20x/tp.php?c=126&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, TCM
+http://roedor.xyz/regiomx20x/tp.php?c=128&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, SPACE
+http://roedor.xyz/regiomx20x/tp.php?c=129&p=3&k=srregio&f=.m3u8
